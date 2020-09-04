@@ -8,3 +8,6 @@
 * To run: Use the make file to compile and execute
 
 ![ClassStructure](./images/ClassStructure.jpg)
+
+
+![roomstructure](./images/roomstructure.jpg)
